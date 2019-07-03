@@ -1,0 +1,21 @@
+<!Doctype html>
+<html>
+<head>
+<title>registration</title>
+</head>
+<body>
+<h2>registration form</h2>
+<img src="https://image.shutterstock.com/image-vector/university-education-logo-design-600w-670576681.jpg" height="50" width="50"></img>
+<p>Here login will be already a membership candidate to be eligible</p>
+<table bgcolor="magenta" height="10px" width="10px" cellspadding="2" cellspacing="5">
+<tr>
+<td>Name<input type="text" name="t1"></td></tr>
+<tr>
+<td>Address<input type="text" name="t2"></td></tr>
+</tr>
+<tr>
+<td><h4>id<input type="text" name="t3"></h4></td></tr>
+</table>
+<h4><input type="button" name="b1" value="login"></h4>
+</body>
+</html>
